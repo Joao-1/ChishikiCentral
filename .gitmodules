@@ -1,0 +1,6 @@
+[submodule "ChishikiAPI"]
+	path = ChishikiAPI
+	url = https://github.com/Joao-1/ChishikiAPI
+[submodule "ChishikiDiscordBot"]
+	path = ChishikiDiscordBot
+	url = https://github.com/Joao-1/ChishikiDiscordBot.git
